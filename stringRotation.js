@@ -11,6 +11,12 @@ Output: true
 
 */
 
+/* 
+Resources:
+Cracking The Coding Interview: Q1.9 - String Rotation
+https://www.youtube.com/watch?v=fKGBNCep3ZI&t=246s
+*/
+
 let str1 = "junk";
 let str2 = "knuj";
 
